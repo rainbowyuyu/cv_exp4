@@ -23,3 +23,4 @@
 
    - 切换到文件目录 `cd ./cv_exp4`
    - 一键安装依赖 `pip install -r requirements.txt`
+   - 记得改自己的文件路径
